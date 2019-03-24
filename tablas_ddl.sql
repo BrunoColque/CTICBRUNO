@@ -3,7 +3,8 @@ create table cliente(
 	nombre varchar2(30),
 	dni char(8)
 )
+tablespace tmp,
 
---autor bruno
+commit;
 
---tercer cambio
+--cuarto cambio
